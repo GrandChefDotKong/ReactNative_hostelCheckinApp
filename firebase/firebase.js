@@ -2,14 +2,9 @@ import Firebase from 'firebase';
 
 // Test config Firebase
 const testFirebaseConfig = {
-  apiKey: "AIzaSyANjgSUjtut_UUjyUvgzF0dKQ1FRF3efZU",
-  authDomain: "tentenapp-3d4fe.firebaseapp.com",
-  databaseURL: "https://tentenapp-3d4fe.firebaseio.com",
-  projectId: "tentenapp-3d4fe",
-  storageBucket: "tentenapp-3d4fe.appspot.com",
-  messagingSenderId: "8557071050",
-  appId: "1:8557071050:web:f1ba0f541977476ae1c233",
-  measurementId: "G-EEVPDJWNHF"
+  /*******************
+    FIREBASE API KEY CONFIG HERE
+  ********************/
 }
 
 export default class FirebaseDB {
