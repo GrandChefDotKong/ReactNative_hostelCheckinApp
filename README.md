@@ -1,6 +1,6 @@
 # ReactNative_hostelCheckinApp
 React Native expo app
-<p align="center">
+<p align="left">
   This an app I made for an hostel, it allows guest to self check-in.<br>
   The app is installed on a android tablet set in the hostel entrance, when new guest arrive they can check in whitout the need of a staff presence
 </p>
