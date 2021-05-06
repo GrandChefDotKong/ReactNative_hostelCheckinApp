@@ -8,8 +8,9 @@ React Native expo app
   For this project I used React Native with expo and firebase as backend.
 </p>
 <p align="center">
-  Here are some screenshots of the app :
+  Here are some screenshots of the app :<br>
   <img src="https://github.com/GrandChefDotKong/ReactNative_hostelCheckinApp/blob/main/screenshots/menu.jpg?raw=true" width="350" title="hover text">
-  <img src="https://github.com/GrandChefDotKong/ReactNative_hostelCheckinApp/blob/main/screenshots/form.jpg?raw=true" width="350" title="hover text">
+  <img src="https://github.com/GrandChefDotKong/ReactNative_hostelCheckinApp/blob/main/screenshots/form1.jpg?raw=true" width="350" title="hover text">
+  <img src="https://github.com/GrandChefDotKong/ReactNative_hostelCheckinApp/blob/main/screenshots/form2.jpg?raw=true" width="350" title="hover text">
   <img src="https://github.com/GrandChefDotKong/ReactNative_hostelCheckinApp/blob/main/screenshots/signature.jpg?raw=true" width="350" title="hover text">
 </p
