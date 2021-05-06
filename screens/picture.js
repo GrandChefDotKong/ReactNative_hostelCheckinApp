@@ -26,7 +26,6 @@ export default function Picture({ route, navigation }) {
 
 
   const takePicture = async() => {
-    console.log("taking picture ...");
     if (cameraRef) {
       const data = await cameraRef.takePictureAsync({ quality: 0.6, base64: true });
       setPicture(data);
