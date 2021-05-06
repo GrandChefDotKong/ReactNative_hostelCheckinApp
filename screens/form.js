@@ -32,14 +32,11 @@ class FormClass extends Component {
   };
 
   onChange = (event, selectedDate) => {
-    console.log(event);
     this.setState({showDatePicker : false});
     if(this.state.dateType === 'arrival'){
       const currentDate = selectedDate || this.state.arrivalDate;
-      console.log(currentDate);
       this.setState({ arrivalDate: currentDate })
     } else {
-      console.log(currentDate);
       const currentDate = selectedDate || this.state.departureDate;
       this.setState({ departureDate: currentDate })
     }
@@ -109,8 +106,6 @@ render() {
       text: language.sexOptions.female[this.state.languageSelected],
       },
   ];
-
-  console.log(this.state.languageSelected);
 
   const onChange = (event, selectedDate) => {
     this.setState({showDatePicker : false});
