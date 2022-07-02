@@ -1,4 +1,4 @@
-# ReactNative_hostelCheckinApp
+# Hostel Checkin App
 React Native expo app
 <p align="left">
   This an app I made for an hostel, it allows guest to self check-in.<br>
@@ -15,4 +15,4 @@ React Native expo app
   <img src="https://github.com/GrandChefDotKong/ReactNative_hostelCheckinApp/blob/main/screenshots/form1.jpg?raw=true" width="350" title="hover text">
   <img src="https://github.com/GrandChefDotKong/ReactNative_hostelCheckinApp/blob/main/screenshots/form2.jpg?raw=true" width="350" title="hover text">
   <img src="https://github.com/GrandChefDotKong/ReactNative_hostelCheckinApp/blob/main/screenshots/signature.jpg?raw=true" width="350" title="hover text">
-</p
+</p>
